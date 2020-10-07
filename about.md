@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://raw.githubusercontent.com/antmarakis/antmarakis.github.io/master/images/profile.jpg" style="display: block;margin-left: auto;" height="125" width="120">
+<img src="https://raw.githubusercontent.com/antmarakis/antmarakis.github.io/master/images/profile.jpg" style="display: block;margin-left: auto;margin-right: auto;" height="125" width="120">
 
 I am Antonis Maronikolakis, a PhD student in LMU, researching in the intersection of NLP and Deep Learning.
 
