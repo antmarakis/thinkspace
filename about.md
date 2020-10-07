@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div>
-  <img src="https://raw.githubusercontent.com/antmarakis/antmarakis.github.io/master/images/profile.jpg" style="float:left" height="125" width="120"></p>
+  <p><img src="https://raw.githubusercontent.com/antmarakis/antmarakis.github.io/master/images/profile.jpg" style="float:left" height="125" width="120"></p>
   <p>I am Antonis Maronikolakis, a PhD student in LMU, researching in the intersection of NLP and Deep Learning.
 
 Previously I was a student at the University of Sheffield, from where I graduated with a First Honours Master’s degree in Speech and Language Processing. I was part of the VoiceBase research lab for Speech Processing in the University of Sheffield, working on Deep Learning and Language Modelling methods to enhance Speech Processing models.
