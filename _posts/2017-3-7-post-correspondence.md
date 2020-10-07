@@ -39,7 +39,7 @@ We accept (and halt) when the lengths are the same and we reject (and halt) othe
 
 We can encode every string in a finite alphabet into a binary string (like a computer using binary to encode text). As *PCP* for a random alphabet is undecidable, a random encoding in binary is also undecidable.
 
-*c) In the *Silly Post Correspondence Problem (SPCP)*, in each pair the top string has the same length as the bottom string. Show that the *SPCP* is decidable.*
+*c) In the Silly Post Correspondence Problem (SPCP), in each pair the top string has the same length as the bottom string. Show that the SPCP is decidable.*
 
 As the pairs have equal top and bottom lengths, the total length of the top word will be the same as the total length of the bottom word. That means the only way this problem is accepted, is if the top and bottom in the pair are the same.
 
