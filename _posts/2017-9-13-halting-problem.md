@@ -29,7 +29,3 @@ An interesting way to map this paradoxical behavior out is by using Cantor's Dia
 Note that since *D* is also a Turing Machine, it will also appear in the table at some point. What will that row look like? Since *D* outputs the opposite of what *Oracle* outputs, it means the row will hold values opposite to what the *(i, i)* nodes hold. For example, if the node *(e, e)* holds the value *accept*, the *e-th* node in *D*'s row will hold *reject*.
 
 If *D*'s row is at index *d*, what then happens at node *(d, d)*? Will we see *accept* or *reject*? The answer is, we cannot know. The node doesn't have a value, so we cannot write down its opposite. It's a paradox, and thus the machine cannot exist.
-
-Here's a visualization of the above:
-
-<img src="https://raw.githubusercontent.com/MrDupin/mrdupin.github.io/master/images/halting_problem.png">
