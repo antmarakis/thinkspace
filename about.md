@@ -3,7 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-<p align: "center">
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/antmarakis/antmarakis.github.io/master/images/profile.jpg" height="125" width="120">
 </p>
 
