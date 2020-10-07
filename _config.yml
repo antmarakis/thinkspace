@@ -1,7 +1,7 @@
 # Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
+title_left    : "Antonis"
+title_right   : "Maronikolakis" # default: ""
+description   : ""
 keywords      : "PhD, NLP, AI, Blog, Antonis"
 url           : https://antmarakis.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
