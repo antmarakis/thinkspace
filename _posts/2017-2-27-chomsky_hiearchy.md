@@ -24,7 +24,7 @@ Context-Sensitive Grammar (Type 1):
 
 * As expressive as Linearly-Bounded Turing Machines.
 
-* Can represent languages such as $$ a^nb^nc^n $$.
+* Can represent languages such as \\( a^nb^nc^n \\).
 
 * `A X C -> A Y C`
 
@@ -34,7 +34,7 @@ Context-Free Grammar (Type 2):
 
 * Equivalent to a pushdown (stack) automaton.
 
-* Can represent languages such as $$ a^nb^n $$.
+* Can represent languages such as \\( a^nb^n \\).
 
 Regular (Type 3):
 
@@ -42,4 +42,4 @@ Regular (Type 3):
 
 * Equivalent to finite-state automata.
 
-* Can represent languages such as $$ a^\*b^\* $$.
+* Can represent languages such as \\( a^\*b^\* \\).
