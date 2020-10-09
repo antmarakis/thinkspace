@@ -1,7 +1,7 @@
 # Site settings
-title_left    : "antonis"
+title_left    : "ant"
 title_right   : "blog"
-description   : "an nlp blog"
+description   : "nlp (and other) musings"
 keywords      : "PhD, NLP, AI, Blog, Antonis"
 url           : https://antmarakis.github.io
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
