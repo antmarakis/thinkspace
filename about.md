@@ -14,4 +14,4 @@ Previously I was a student at the University of Sheffield, from where I graduate
 
 In the summer of 2017, I mentored under Dr. Norvig, for the Google Summer of Code program. There I worked on ML and NLP algorithms, writing about and implementing concepts for educational purposes. I am also semi-active on Kaggle, where I have taken part in two competitions, winning a silver and a bronze medal. My open-source work on the platform has also been featured on Kaggle’s newsletter.
 
-You can find my (mostly up-to-date) resume [here](https://github.com/antmarakis/antmarakis.github.io/blob/master/files/antonis_resume.pdf).
+You can find my (mostly up-to-date) resume [here](https://antmarakis.github.io/files/antonis_resume.pdf).
