@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reading Jumbled Letters
-category: Paper Reviews
+category: Paper Notes
 ---
 
 
