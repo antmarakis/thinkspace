@@ -15,4 +15,4 @@ An analysis of linguistic features is also presented. N-grams are categorized in
 As an ablation study, they investigate whether echo chambers exist within spreader circles. They conjecture that the similarity between user representations drops the further away two users are in the social graph. This indeed seems to be the case, both for fake and real news spreaders.
 
 ---
-*Marco Del Tredici and Raquel Fern´andez. \Words are the Window to the Soul: Languagebased User Representations for Fake News Detection". In: Proceedings of the 28th International Conference on Computational Linguistics. Barcelona, Spain (Online): International Committee on Computational Linguistics, Dec. 2020, pp. 5467{5479. url: https://www.aclweb.org/anthology/2020.coling-main.477.*
+*Marco Del Tredici and Raquel Fern´andez. "Words are the Window to the Soul: Languagebased User Representations for Fake News Detection". In: Proceedings of the 28th International Conference on Computational Linguistics. Barcelona, Spain (Online): International Committee on Computational Linguistics, Dec. 2020, pp. 5467{5479. url: https://www.aclweb.org/anthology/2020.coling-main.477.*
