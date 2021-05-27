@@ -7,10 +7,10 @@ permalink: /publications/
 
 ## 2021
 
-Antonis Maronikolakis, Hinrich Schütze, and Mark Stevenson. 2021. [Identifying Automatically Generated Headlines Using Transformers](https://www.aclweb.org/anthology/2021.nlp4if-1.1/). In Proceedings of the Fourth Workshop on NLP for Internet Freedom: Censorship, Disinformation, and Propaganda, pages 1–6, Online. Association for Computational Linguistics.
+[Identifying Automatically Generated Headlines Using Transformers](https://www.aclweb.org/anthology/2021.nlp4if-1.1/). Antonis Maronikolakis, Hinrich Schütze, and Mark Stevenson. 2021. In Proceedings of the Fourth Workshop on NLP for Internet Freedom: Censorship, Disinformation, and Propaganda, pages 1–6, Online. Association for Computational Linguistics.
 
-Antonis Maronikolakis and Hinrich Schütze. 2021. [Multidomain Pretrained Language Models for Green NLP](https://www.aclweb.org/anthology/2021.adaptnlp-1.1/). In Proceedings of the Second Workshop on Domain Adaptation for NLP, pages 1–8, Kyiv, Ukraine. Association for Computational Linguistics.
+[Multidomain Pretrained Language Models for Green NLP](https://www.aclweb.org/anthology/2021.adaptnlp-1.1/). Antonis Maronikolakis and Hinrich Schütze. 2021. In Proceedings of the Second Workshop on Domain Adaptation for NLP, pages 1–8, Kyiv, Ukraine. Association for Computational Linguistics.
 
 ## 2020
 
-Antonis Maronikolakis, Danae Sánchez Villegas, Daniel Preotiuc-Pietro, and Nikolaos Aletras. 2020. [Analyzing Political Parody in Social Media](https://www.aclweb.org/anthology/2020.acl-main.403). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
+[Analyzing Political Parody in Social Media](https://www.aclweb.org/anthology/2020.acl-main.403). Antonis Maronikolakis, Danae Sánchez Villegas, Daniel Preotiuc-Pietro, and Nikolaos Aletras. 2020. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
