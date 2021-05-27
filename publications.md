@@ -7,6 +7,8 @@ permalink: /publications/
 
 ## 2021
 
+Antonis Maronikolakis, Hinrich Schütze, and Mark Stevenson. 2021. [Identifying Automatically Generated Headlines Using Transformers](https://www.aclweb.org/anthology/2021.nlp4if-1.1/). In Proceedings of the Fourth Workshop on NLP for Internet Freedom: Censorship, Disinformation, and Propaganda, pages 1–6, Online. Association for Computational Linguistics.
+
 Antonis Maronikolakis and Hinrich Schütze. 2021. [Multidomain Pretrained Language Models for Green NLP](https://www.aclweb.org/anthology/2021.adaptnlp-1.1/). In Proceedings of the Second Workshop on Domain Adaptation for NLP, pages 1–8, Kyiv, Ukraine. Association for Computational Linguistics.
 
 ## 2020
