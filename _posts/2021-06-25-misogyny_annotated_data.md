@@ -17,7 +17,7 @@ Labeling took place on three levels. First is a binary class (misogynistic and n
 
 For non-misogynistic content, the authors capture non-misogynistic personal attacks and counter speech (replies that counter abusive language) as well as neutral content.
 
-Annotators were involved in the development of the definitions' hierarchy, and during the annotation phase, weekly meetings were held where annotation disagreements were hashed out with an expert PhD researcher as the intermediary. These meetings took place until a consensus was reached. For the binary task (first level), inter-annotator agreement was 0.48 both for Fleiss' Kappa and Krippendorf's Alpha, which is higher or at least on par with the other mentioned work. Kappa values for the granular misogynistic labels (level two) can be seen in the following table.
+Annotators were involved in the development of the definitions' hierarchy, and during the annotation phase, weekly meetings were held where annotation disagreements were hashed out with an expert PhD researcher as the intermediary. These meetings took place until a consensus was reached. For the binary task (first level), inter-annotator agreement was 0.48 both for Fleiss' Kappa and Krippendorf's Alpha, which is higher or at least on par with the other mentioned work. Kappa values for the granular misogynistic labels (level two) can be seen in the following table (as seen on the paper).
 
 <img src="https://i.imgur.com/v1bhp22.png" width="50%">
 
