@@ -7,6 +7,8 @@ permalink: /publications/
 
 ## 2021
 
+[Artificial Intelligence, Extreme Speech, and the Challenges of Online Content Moderation](https://doi.org/10.5282/ubm/epub.76087) Sahana Udupa, Elonnai Hickok, Antonis Maronikolakis, Hinrich Schuetze, Laura Csuka, Axel Wisiorek, Leah Nann. 2021. AI4Dignity Project. EU Commission Policy Brief.
+
 [Identifying Automatically Generated Headlines Using Transformers](https://www.aclweb.org/anthology/2021.nlp4if-1.1/). Antonis Maronikolakis, Hinrich Schütze, and Mark Stevenson. 2021. In Proceedings of the Fourth Workshop on NLP for Internet Freedom: Censorship, Disinformation, and Propaganda, pages 1–6, Online. Association for Computational Linguistics.
 
 [Multidomain Pretrained Language Models for Green NLP](https://www.aclweb.org/anthology/2021.adaptnlp-1.1/). Antonis Maronikolakis and Hinrich Schütze. 2021. In Proceedings of the Second Workshop on Domain Adaptation for NLP, pages 1–8, Kyiv, Ukraine. Association for Computational Linguistics.
