@@ -4,7 +4,7 @@ title: Supervision
 permalink: /supervision/
 ---
 
-As part of my PhD duties, I have been lucky enough to supervise these excellent students (in chronological order):
+As part of my PhD duties, I have been lucky enough to supervise these excellent students.
 
 Bachelor's:
 
@@ -16,4 +16,5 @@ Philip Baader: *Hate Speech Dataset and Detection Analysis*<br>
 Marc-Anthony Bauer: *Towards Hate Speech Detection Benchmarking*<br>
 
 Master's:
+
 Shuzhou Yuan: *Adversarial Training for Hate Speech Detection*<br>
