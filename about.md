@@ -8,10 +8,8 @@ permalink: /about/
 <img src="https://raw.githubusercontent.com/antmarakis/antmarakis.github.io/master/images/profile.jpg" height="125" width="120">
 </p>
 
-I am Antonis Maronikolakis, a PhD student at LMU, researching in the intersection of NLP and Deep Learning.
-
-Previously I was a student at the University of Sheffield, from where I graduated with a First Honours Master’s degree in Speech and Language Processing. I was part of the VoiceBase research lab for Speech Processing in the University of Sheffield, working on Deep Learning and Language Modelling methods to enhance Speech Processing models.
-
-In the summer of 2017, I mentored under Dr. Norvig, for the Google Summer of Code program. There I worked on ML and NLP algorithms, writing about and implementing concepts for educational purposes. I am also semi-active on Kaggle, where I have taken part in two competitions, winning a silver and a bronze medal. My open-source work on the platform has also been featured on Kaggle’s newsletter.
+I am Antonis Maronikolakis, a 2nd-year PhD student at the LMU for Hinrich Schütze. I am currently working on social and ethical NLP with a focus on hate speech analysis. As part of the [AI4Dignity](https://www.ai4dignity.gwi.uni-muenchen.de/) project, I am working with marginalized communities around the globe for collection and annotation of hateful data. Previously, I did some research on multilinguality in BERT.
 
 You can find my (out-of-date) resume [here](https://antmarakis.github.io/files/antonis_resume.pdf).
+
+On my free time, I like reading, writing, art and all things theatrical. And football.
