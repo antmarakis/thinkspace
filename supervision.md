@@ -7,7 +7,7 @@ permalink: /supervision/
 As part of my PhD duties, I have been lucky enough to supervise these excellent students (in chronological order):
 
 Markus Pfaffl (bsc): *Character-Level Propaganda Detection*<br>
-Jessica Schleiermacher (bsc): *Character-Level Text Generation for Biological Data*<br>
+Jessica Schleiermacher (bsc): *Char-Level Text Generation for Biological Data*<br>
 Johanna Strebl (bsc): *Toxic Span Detection - SemEval 2021: Task 5*<br>
 Laurin Gerhardt (bsc): *Fake News Analysis and Detection in German*<br>
 Philip Baader (bsc): *Hate Speech Dataset and Detection Analysis*<br>
