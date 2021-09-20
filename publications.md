@@ -7,7 +7,7 @@ permalink: /publications/
 
 ## 2021
 
-Wine is Not v i n. -- On the Compatibility of Tokenizations Across Languages [Camera-Ready](https://arxiv.org/abs/2109.05772). Antonis Maronikolakis, Philipp Dufter and Hinrich Schütze. 2021. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing.
+Wine is Not v i n. -- On the Compatibility of Tokenizations Across Languages ([Camera-Ready](https://arxiv.org/abs/2109.05772)). Antonis Maronikolakis, Philipp Dufter and Hinrich Schütze. 2021. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing.
 
 BERT Cannot Align Characters. Antonis Maronikolakis, Philipp Dufter and Hinrich Schütze. 2021. In Proceedings of the The Second Workshop on Insights from Negative Results, EMNLP.
 
