@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supervision
+title: 🌂 Supervision
 permalink: /supervision/
 ---
 
