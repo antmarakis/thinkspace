@@ -5,11 +5,11 @@ category: Artificial Intelligence
 ---
 
 
-We have [previously](/naive-bayes-cat-intro/) gone over the basics of the <i>Naive Bayes Classifier</i>. Now it is time to delve into the implementation of the theory.
+We have [previously](https://antmarakis.github.io/2016/naive-bayes-cat-intro/) gone over the basics of the <i>Naive Bayes Classifier</i>. Now it is time to delve into the implementation of the theory.
 
 We will break the implementation into two parts. First we will read the data from a file (a text file in this example for simplicity), extracting all the information we need, and then we will use this information to predict classes. This is Part One.
 
-Example data sets can be found <a href="https://github.com/MrDupin/Machine-Learning/tree/master/Classifiers/Naive%20Bayes/Categorical">here</a>.
+Example data sets can be found <a href="https://github.com/antmarakis/Machine-Learning/tree/master/Classifiers/Naive%20Bayes/Categorical">here</a>.
 
 <u>This is the preliminaries to the Naive Bayesian Classifier, extracting and storing the data for use in the main algorithm. If you already know how to calculate this data, feel free to skip this. We are simply reading from the file and calculating all the probabilities.</u>
 
@@ -281,6 +281,6 @@ This concludes the extraction of information from the data set. Next we will see
 
 The links to the rest of the series:
 
-[Part 1](/naive-bayes-cat-intro/)
+[Part 1](https://antmarakis.github.io/2016/naive-bayes-cat-intro/)
 
-[Part 3](/naive-bayes-cat-implementation/)
+[Part 3](https://antmarakis.github.io/2016/naive-bayes-cat-implementation/)
