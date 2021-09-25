@@ -18,7 +18,7 @@ Essentially we are checking two elements each time and if they are the same we k
 
 This is a simple example of a "Divide and Conquer" algorithm which showcases how to use the particular technique to our advantage. We have a big problem which will be easier to solve if we break it up into smaller problems. We keep breaking the problem up until we get to a base case (here the 2-element array) which we can trivially solve and then recursively propagate the solution up until we solve the original problem.
 
-You can find the code <a href="https://github.com/MrDupin/Algorithms/blob/master/Divide%20and%20Conquer/FindMajorityElement.py">here</a>.
+You can find the code <a href="https://github.com/antmarakis/Algorithms/blob/master/Divide%20and%20Conquer/FindMajorityElement.py">here</a>.
 
 NOTE 1: This particular problem also has an O(n) solution without the use of divide-and-conquer. Can you find it?
 
