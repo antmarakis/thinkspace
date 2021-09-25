@@ -4,7 +4,7 @@ title: Perceptron Implementation
 category: Artificial Intelligence
 ---
 
-In a [previous post](/perceptron-theory/) we looked at the theory behind Perceptron. In this tutorial we will implement the algorithm using Python.
+In a [previous post](https://antmarakis.github.io/2017/perceptron-theory/) we looked at the theory behind Perceptron. In this tutorial we will implement the algorithm using Python.
 
 <u>Note:</u> We will implement the algorithm from scratch, so that we get a better understanding of how the algorithm actually works. If you want to use it to solve a problem, it's better if you used an external library that already implements the algorithm (like scikit-learn for Python).
 
@@ -26,7 +26,7 @@ Height,Weight,Age,Class
 1.75,69,25,Programmer
 </pre>
 
-You can find an example data file <a href="https://github.com/MrDupin/Machine-Learning/blob/master/Classifiers/Perceptron/data.txt">here</a>.
+You can find an example data file <a href="https://github.com/antmarakis/Machine-Learning/blob/master/Classifiers/Perceptron/data.txt">here</a>.
 
 Let's jump right into the implementation. We need to get the number of features, which can be found on the first line.
 
@@ -38,7 +38,7 @@ We also need to store the item information and the different classes that appear
 
 For each line in the file, we will split it to get the features, storing them into a temporary array before adding them to the <i>items</i> list. At the end, we will shuffle the list to make sure the data set is properly randomized.
 
-<script src="https://gist.github.com/MrDupin/e1d643d6bc9799424c2f4642ddd083c0.js"></script>
+<script src="https://gist.github.com/antmarakis/e1d643d6bc9799424c2f4642ddd083c0.js"></script>
 
 ### Auxiliary Functions
 
@@ -46,7 +46,7 @@ First we will need functions to add and subtract dictionaries (<i>d1</i> and <i>
 
 We also need a function to calculate the confidence (the dot product) of an item and a weight. We can calculate the dot product by multiplying the values for each feature of the weight and item vectors and adding them together.
 
-<script src="https://gist.github.com/MrDupin/b4a684dc2229c060e163cc55a2ac8dd2.js"></script>
+<script src="https://gist.github.com/antmarakis/b4a684dc2229c060e163cc55a2ac8dd2.js"></script>
 
 ### Training
 
@@ -91,15 +91,15 @@ For each epoch:
 
 Let's implement the above:
 
-<script src="https://gist.github.com/MrDupin/9f82fcd944fd12394797ac26829be0d8.js"></script>
+<script src="https://gist.github.com/antmarakis/9f82fcd944fd12394797ac26829be0d8.js"></script>
 
 Bringing all the parts of the function together we have:
 
-<script src="https://gist.github.com/MrDupin/c7929c4baadac8ab7fa6c383e9fbf990.js"></script>
+<script src="https://gist.github.com/antmarakis/c7929c4baadac8ab7fa6c383e9fbf990.js"></script>
 
 With the above function we can train the weights, now we need to write a function to classify an item. We will call this function <i>Perceptron</i>. Given an item and the weights, first it will augment the item vector with the bias, then it will find the maximum confidence and it will classify the item in the class that produced that max confidence.
 
-<script src="https://gist.github.com/MrDupin/eb330097fa36748396b6cfbf2d0c4a5a.js"></script>
+<script src="https://gist.github.com/antmarakis/eb330097fa36748396b6cfbf2d0c4a5a.js"></script>
 
 <h3>Usage</h3>
 
@@ -115,8 +115,8 @@ item = {'PW' : 1.4, 'PL' : 4.7, 'SW' : 3.2, 'SL' : 7.0};
 print Perceptron(item,weights);
 </pre>
 
-With that the code is complete. You can find the complete implementation on <a href="https://github.com/MrDupin/Machine-Learning/blob/master/Classifiers/Perceptron/Perceptron.py">my github</a>. It includes two evaluation functions.
+With that the code is complete. You can find the complete implementation on <a href="https://github.com/antmarakis/Machine-Learning/blob/master/Classifiers/Perceptron/Perceptron.py">my github</a>. It includes two evaluation functions.
 
 <hr>
 
-[Perceptron Theory](/perceptron-theory/)
+[Perceptron Theory](https://antmarakis.github.io/2017/perceptron-theory/)
