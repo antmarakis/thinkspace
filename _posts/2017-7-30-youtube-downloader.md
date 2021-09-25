@@ -40,7 +40,7 @@ The above will download many tf_records files (for example, `train0_.tfrecord`).
 
 ## Step 2: Extract Info
 
-After that, you can extract information from these records and store them in a file using [videos.py](https://github.com/MrDupin/Youtube-Sample-Video-Downloader/blob/master/videos.py). The script takes as argument a record file name (eg. `train0_.tfrecord` for the previously mentioned record), downloads the video and stores its id, tags, title and description in a file (`save.txt`).
+After that, you can extract information from these records and store them in a file using [videos.py](https://github.com/antmarakis/Youtube-Sample-Video-Downloader/blob/master/videos.py). The script takes as argument a record file name (eg. `train0_.tfrecord` for the previously mentioned record), downloads the video and stores its id, tags, title and description in a file (`save.txt`).
 
 First, using Tensorflow it parses the record into video examples. From there we get the video id and the tags of the video. Then, using Pafy, we get the length. If it is no more than 150 seconds we continue (you can change the seconds limit to whatever you want, or even remove it). After that, we download the video, its description and its title using youtube-dl. The `ydl_opts = {'format':'135+140'}` means we download both video and audio.
 
@@ -48,4 +48,4 @@ Finally, we store the video id, title, tags and description in a text file .
 
 ---
 
-You can find the code [on my Github](https://github.com/MrDupin/Youtube-Sample-Video-Downloader). Thanks for reading!
+You can find the code [on my Github](https://github.com/antmarakis/Youtube-Sample-Video-Downloader). Thanks for reading!
