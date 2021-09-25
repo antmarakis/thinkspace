@@ -4,7 +4,7 @@ title: Naive Bayes Numerical Classifier - Reading Data
 category: Artificial Intelligence
 ---
 
-This process is very similar to the [Categorical Classifier one](/naive-bayes-cat-read-data/). We will again need to calculate the dictionaries <i>Classes</i>, <i>Features</i> and <i>P</i> (for probabilities). There are some key differences though. Since the values now are numerical, you will be using a distribution function instead of calculating individual probabilities. That means we do not need individual feature probabilities.
+This process is very similar to the [Categorical Classifier one](https://antmarakis.github.io/2016/naive-bayes-cat-read-data/). We will again need to calculate the dictionaries <i>Classes</i>, <i>Features</i> and <i>P</i> (for probabilities). There are some key differences though. Since the values now are numerical, you will be using a distribution function instead of calculating individual probabilities. That means we do not need individual feature probabilities.
 
 We assume the data set follows the Gaussian distribution.
 
@@ -45,7 +45,7 @@ Classes["Sumo"]["Height"]["Mean"]; #mean of Height in Sumo
 
 ### Mean and Standard Deviation
 
-Mean is basically the average value. We will calculate it using the approach I explained [in this post](/calculating-averages/).
+Mean is basically the average value. We will calculate it using the approach I explained [in this post](https://antmarakis.github.io/2016/calculating-averages/).
 
 The Standard Deviation is the square root of the Variance, and Variance is the average of the squared differences from the Mean. There are two Standard Deviations though, Population and Sample. Population Standard Deviation is the average we know and use, dividing by the count of items. Sample is a little different; we divide by the count <i>minus 1</i>. Usually in Computing Statistics, we use the Sample instead of the Popularity one, and we will do the same here. It doesn't make much of a difference; we just use the more common one.
 
@@ -59,10 +59,10 @@ For the features, you simply need to save their names to a list. For the probabi
 
 At the end you return the <i>Classes</i>, <i>Features</i>, <i>P</i> and <i>n</i> (the total count of items).
 
-You can find the code with more commenting/description <a href="https://github.com/MrDupin/Machine-Learning/blob/master/Classifiers/Naive%20Bayes/Numerical/_DataReader.py">on my Github.</a>
+You can find the code with more commenting/description <a href="https://github.com/antmarakis/Machine-Learning/blob/master/Classifiers/Naive%20Bayes/Numerical/_DataReader.py">on my Github.</a>
 
 <hr>
 
-[Part 1](/naive-bayes-num-intro/)
+[Part 1](https://antmarakis.github.io/2016/naive-bayes-cat-intro/)
 
-[Part 3](/naive-bayes-num-implementation/)
+[Part 3](https://antmarakis.github.io/2016/naive-bayes-num-implementation/)
