@@ -79,4 +79,4 @@ With that, this little introduction is finished.
 
 <hr>
 
-[Perceptron Implementation](/perceptron-implementation/)
+[Perceptron Implementation](https://antmarakis.github.io/2017/perceptron-implementation/)
