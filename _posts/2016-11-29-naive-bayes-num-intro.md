@@ -4,7 +4,7 @@ title: Naive Bayes Numerical Classifier - Intro
 category: Artificial Intelligence
 ---
 
-We have previously seen how the Bayesian Classifier works for discrete features. I suggest you skim over [that post](/naive-bayes-cat-intro/) first, so that you will better understand how this type of classifier works. We will now take a look at the case where features have numerical values.
+We have previously seen how the Bayesian Classifier works for discrete features. I suggest you skim over [that post](https://antmarakis.github.io/2016/naive-bayes-cat-intro/) first, so that you will better understand how this type of classifier works. We will now take a look at the case where features have numerical values.
 
 ### Overview
 
@@ -84,4 +84,4 @@ where P(Wrestler) is 3/5 and we get the value of P(Height=175|Wrestler) from the
 
 <hr>
 
-<a href="https://mrdupin.github.io/naive-bayes-num-read-data/">Part 2</a><br><br><a href="https://mrdupin.github.io/naive-bayes-num-implementation/">Part 3</a>
+<a href="https://mrdupin.github.io/naive-bayes-num-read-data/">Part 2</a><br><br><a href="https://antmarakis.github.io/2016/naive-bayes-num-implementation/">Part 3</a>
