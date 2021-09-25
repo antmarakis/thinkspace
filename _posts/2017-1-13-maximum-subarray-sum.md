@@ -92,6 +92,6 @@ To print this value, we call <i>CalculateSubarraySum(n)</i> and print it.
 print(CalculateSubarraySum(n));
 </pre>
 
-With that we are done. You can find the complete code on my <a href="https://github.com/MrDupin/Algorithms/blob/master/Dynamic%20Programming/MaximumSubarraySum/MaximumSubarraySum.py">Github repository</a>.
+With that we are done. You can find the complete code on my <a href="https://github.com/antmarakis/Algorithms/blob/master/Dynamic%20Programming/MaximumSubarraySum/MaximumSubarraySum.py">Github repository</a>.
 
 Thanks for reading!
