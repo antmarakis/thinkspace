@@ -16,7 +16,7 @@ Wrestler 175 69
 Sumo 180 111
 </pre>
 
-For this tutorial, we will use the data set found <a href="https://github.com/MrDupin/Machine-Learning/blob/master/Classifiers/Naive%20Bayes/Numerical/data.txt">here</a>.
+For this tutorial, we will use the data set found <a href="https://github.com/antmarakis/Machine-Learning/blob/master/Classifiers/Naive%20Bayes/Numerical/data.txt">here</a>.
 
 ### Distribution Function
 
@@ -48,7 +48,7 @@ import math;
 
 First we will need to build the dictionaries and lists <i>Classes</i>, <i>Features</i>, <i>P</i> and get the count of the items in our data set, <i>n</i>.
 
-We have already build a [data reader](/naive-bayes-num-read-data/). We will save that code into a Python script called <i>_DataReader</i> and we will import it here.
+We have already build a [data reader](https://antmarakis.github.io/2016/naive-bayes-num-read-data/). We will save that code into a Python script called <i>_DataReader</i> and we will import it here.
 
 <pre>
 import _DataReader as DataReader;
@@ -144,10 +144,10 @@ Wrestler 0.00346294406914
 
 <h3>Conclusion</h3>
 
-And with that we have developed a <i>Naive Numerical Bayes Classifier</i> from the ground up. You can find the full code on my <a href="https://github.com/MrDupin/Machine-Learning/tree/master/Classifiers/Naive%20Bayes/Numerical">Github</a>.
+And with that we have developed a <i>Naive Numerical Bayes Classifier</i> from the ground up. You can find the full code on my <a href="https://github.com/antmarakis/Machine-Learning/tree/master/Classifiers/Naive%20Bayes/Numerical">Github</a>.
 
 <hr>
 
-[Part 1](/naive-bayes-num-intro/)
+[Part 1](https://antmarakis.github.io/2016/naive-bayes-num-intro/)
 
-[Part 2](/naive-bayes-num-read-data/)
+[Part 2](https://antmarakis.github.io/2016/naive-bayes-num-read-data/)
