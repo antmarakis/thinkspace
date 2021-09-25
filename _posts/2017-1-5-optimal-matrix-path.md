@@ -152,4 +152,4 @@ To print the solution, we write:
 print CalculatePath(n-1, n-1);
 </pre>
 
-For the code you can go to <a href="https://github.com/MrDupin/Algorithms/tree/master/Dynamic%20Programming/MinimumPathSum">my Github repository</a> (I read the matrix from a text file).
+For the code you can go to <a href="https://github.com/antmarakis/Algorithms/tree/master/Dynamic%20Programming/MinimumPathSum">my Github repository</a> (I read the matrix from a text file).
