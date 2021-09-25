@@ -6,7 +6,7 @@ category: Artificial Intelligence
 
 This is the first part of a three-part tutorial that will serve as a guide to a very popular and robust Pattern Recognition algorithm, the Naive Bayes Classifier. First we will take a look at the categorical classifier, which means the input has discrete values ('Red', 'Tall', integers in a range, etc). Later we will also take a look at the numerical classifier, for continuous values (for example, real numbers representing height).
 
-You can find the code we will go through in this tutorial on my <a href="https://github.com/MrDupin/Machine-Learning/tree/master/Classifiers/Naive%20Bayes/Categorical">GitHub</a>.
+You can find the code we will go through in this tutorial on my <a href="https://github.com/antmarakis/Machine-Learning/tree/master/Classifiers/Naive%20Bayes/Categorical">GitHub</a>.
 
 ### Intro
 
@@ -223,6 +223,6 @@ Finally, the algorithm is very useful not only for its robustness, but also for 
 
 You can find the rest of the series here:
 
-<a href="https://mrdupin.github.io/naive-bayes-cat-read-data/">Part 2</a>
+<a href="https://antmarakis.github.io/2016/naive-bayes-cat-read-data/">Part 2</a>
 
-<a href="https://mrdupin.github.io/naive-bayes-cat-implementation/">Part 3</a>
+<a href="https://antmarakis.github.io/2016/naive-bayes-cat-implementation/">Part 3</a>
