@@ -5,7 +5,7 @@ category: Artificial Intelligence
 ---
 
 
-In this tutorial we will implement the <i>Naive Categorical Bayes Classifier</i>. [Previously](/naive-bayes-cat-read-data/) we looked at how we can read data from a text file. Here we will use this data to classify items.
+In this tutorial we will implement the <i>Naive Categorical Bayes Classifier</i>. [Previously](https://antmarakis.github.io/2016/naive-bayes-cat-read-data/) we looked at how we can read data from a text file. Here we will use this data to classify items.
 
 ### Approach
 
@@ -21,7 +21,7 @@ The higher this number the better. So, we will run this equation for every class
 
 ### Data
 
-We will use the code we wrote [here](/2016/11/23/naive-bayes-cat-read-data/) to read the data. Put said code into a Python script named <i>_DataReader</i> and import it into your classifier script.
+We will use the code we wrote [here](https://antmarakis.github.io/2016/naive-bayes-cat-read-data/) to read the data. Put said code into a Python script named <i>_DataReader</i> and import it into your classifier script.
 
 <pre>
 import _DataReader as DataReader;
@@ -37,7 +37,7 @@ Features = data[1];
 P = data[2];
 </pre>
 
-The data set we will use can be found <a href="https://github.com/MrDupin/Machine-Learning/blob/master/Classifiers/Naive%20Bayes/Categorical/data.txt">here</a>. We have two classes, <i>Detective</i> and <i>Brute</i>, and three features, <i>Tall</i>, <i>Slim</i> and <i>Smart</i>. Each line represents an item. The first word of a line is the class the item is classified in. <i>True</i> means that the item has the feature on that column, while <i>False</i> means it doesn't.
+The data set we will use can be found <a href="https://github.com/antmarakis/Machine-Learning/blob/master/Classifiers/Naive%20Bayes/Categorical/data.txt">here</a>. We have two classes, <i>Detective</i> and <i>Brute</i>, and three features, <i>Tall</i>, <i>Slim</i> and <i>Smart</i>. Each line represents an item. The first word of a line is the class the item is classified in. <i>True</i> means that the item has the feature on that column, while <i>False</i> means it doesn't.
 
 Say we have a new item that we know has the following features, <i>Tall</i> and <i>Slim</i>. We want to classify it into one of the two classes.
 
@@ -85,7 +85,7 @@ Then we will check if the current class has a higher probability of appearing th
 
 In code:
 
-<script src="https://gist.github.com/MrDupin/27ac7ab65d46c22d7aef831b2a084f79.js"></script>
+<script src="https://gist.github.com/antmarakis/27ac7ab65d46c22d7aef831b2a084f79.js"></script>
 
 Finally, we will return the classification and the max:
 
@@ -103,10 +103,10 @@ Detective 0.47619047619
 
 ### Conclusion
 
-And with that we have developed a <i>Naive Categorical Bayes Classifier</i> from the ground up. You can find the full code on my <a href="https://github.com/MrDupin/Machine-Learning/tree/master/Classifiers/Naive%20Bayes/Categorical">Github</a>.
+And with that we have developed a <i>Naive Categorical Bayes Classifier</i> from the ground up. You can find the full code on my <a href="https://github.com/antmarakis/Machine-Learning/tree/master/Classifiers/Naive%20Bayes/Categorical">Github</a>.
 
 Links to the rest of the series:
 
-[Part 1](/naive-bayes-cat-intro/)
+[Part 1](https://antmarakis.github.io/2016/naive-bayes-cat-intro/)
 
-[Part 2](/naive-bayes-cat-read-data/)
+[Part 2](https://antmarakis.github.io/2016/naive-bayes-cat-read-data/)
