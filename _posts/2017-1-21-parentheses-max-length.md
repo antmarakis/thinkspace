@@ -93,4 +93,4 @@ print FindLength(par);
 
 ---
 
-You can also find the code on <a href="https://github.com/MrDupin/Algorithms/blob/master/General/Parentheses_MaxLength.py">my GitHub</a>. Thanks for dropping by.
+You can also find the code on <a href="https://github.com/antmarakis/Algorithms/blob/master/General/Parentheses_MaxLength.py">my GitHub</a>. Thanks for dropping by.
