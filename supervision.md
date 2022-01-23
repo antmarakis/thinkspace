@@ -8,8 +8,8 @@ As part of my PhD duties, I have been lucky enough to supervise these excellent 
 
 🎓 Students for bachelor's degree:
 
-> Markus Pfaffl - *Character-Level Propaganda Detection*<br>
-> Jessica Schleiermacher - *Character-Level Text Generation for Biological Data*<br>
+> Markus Pfaffl - *Char-Level Propaganda Detection*<br>
+> Jessica Schleiermacher - *Char-Level Text Generation for Biological Data*<br>
 > Johanna Strebl - *Toxic Span Detection - SemEval 2021: Task 5*<br>
 > Laurin Gerhardt - *Fake News Analysis and Detection in German*<br>
 > Philip Baader - *Hate Speech Dataset and Detection Analysis*<br>
