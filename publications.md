@@ -5,6 +5,10 @@ permalink: /publications/
 ---
 
 
+## 2022
+
+Listening to Affected Communities to Define Extreme Speech: Dataset and Experiments. Antonis Maronikolakis, Axel Wisiorek, Leah Nann, Haris Jabbar, Sahana Udupa and Hinrich Schütze. 2022. In Findings of the Association for Computational Linguistics: ACL 2022.
+
 ## 2021
 
 [Wine is Not v i n. -- On the Compatibility of Tokenizations Across Languages](https://aclanthology.org/2021.findings-emnlp.205/). Antonis Maronikolakis, Philipp Dufter and Hinrich Schütze. 2021. In Findings of the 2021 Conference on Empirical Methods in Natural Language Processing.
