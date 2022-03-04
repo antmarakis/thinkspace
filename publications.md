@@ -7,9 +7,9 @@ permalink: /publications/
 
 ## 2022
 
-Listening to Affected Communities to Define Extreme Speech: Dataset and Experiments. Antonis Maronikolakis, Axel Wisiorek, Leah Nann, Haris Jabbar, Sahana Udupa and Hinrich Schütze. 2022. In Findings of the Association for Computational Linguistics: ACL 2022.
+[Listening to Affected Communities to Define Extreme Speech: Dataset and Experiments](https://raw.githubusercontent.com/antmarakis/antmarakis.github.io/master/files/xtremespeech.pdf). Antonis Maronikolakis, Axel Wisiorek, Leah Nann, Haris Jabbar, Sahana Udupa and Hinrich Schütze. 2022. In Findings of the Association for Computational Linguistics: ACL 2022.
 
-[Separating Hate Speech and Offensive Language Classes via Adversarial Debiasing](https://github.com/ShuzhouYuan/Hate_Offensive_Adversarial_Debiasing/blob/main/adversarial_debiasing.pdf) Shuzhou Yuan, Antonis Maronikolakis, Hinrich Schütze. 2022. Pre-print.
+[Separating Hate Speech and Offensive Language Classes via Adversarial Debiasing](https://raw.githubusercontent.com/ShuzhouYuan/Hate_Offensive_Adversarial_Debiasing/main/adversarial_debiasing.pdf) Shuzhou Yuan, Antonis Maronikolakis, Hinrich Schütze. 2022. Pre-print.
 
 ## 2021
 
