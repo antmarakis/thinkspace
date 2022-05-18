@@ -9,13 +9,15 @@ permalink: /publications/
 
 [Listening to Affected Communities to Define Extreme Speech: Dataset and Experiments](https://raw.githubusercontent.com/antmarakis/antmarakis.github.io/master/files/xtremespeech.pdf). Antonis Maronikolakis, Axel Wisiorek, Leah Nann, Haris Jabbar, Sahana Udupa and Hinrich Schütze. 2022. In Findings of the Association for Computational Linguistics: ACL 2022.
 
-[Separating Hate Speech and Offensive Language Classes via Adversarial Debiasing](https://raw.githubusercontent.com/ShuzhouYuan/Hate_Offensive_Adversarial_Debiasing/main/adversarial_debiasing.pdf) Shuzhou Yuan, Antonis Maronikolakis, Hinrich Schütze. 2022. Pre-print.
+[Analyzing Hate Speech Data along Racial, Gender and Intersectional Axes](https://arxiv.org/abs/2205.06621) Antonis Maronikolakis, Philip Baader, Hinrich Schütze. 2022. In Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing, NAACL.
+
+[Separating Hate Speech and Offensive Language Classes via Adversarial Debiasing](https://raw.githubusercontent.com/ShuzhouYuan/Hate_Offensive_Adversarial_Debiasing/main/adversarial_debiasing.pdf) Shuzhou Yuan, Antonis Maronikolakis, Hinrich Schütze. 2022. In Proceedings of The 6th Workshop on Online Abuse and Harms, NAACL.
 
 ## 2021
 
 [Wine is Not v i n. -- On the Compatibility of Tokenizations Across Languages](https://aclanthology.org/2021.findings-emnlp.205/). Antonis Maronikolakis, Philipp Dufter and Hinrich Schütze. 2021. In Findings of the 2021 Conference on Empirical Methods in Natural Language Processing.
 
-[BERT Cannot Align Characters](https://aclanthology.org/2021.insights-1.3/). Antonis Maronikolakis, Philipp Dufter and Hinrich Schütze. 2021. In Proceedings of the The Second Workshop on Insights from Negative Results, EMNLP.
+[BERT Cannot Align Characters](https://aclanthology.org/2021.insights-1.3/). Antonis Maronikolakis, Philipp Dufter and Hinrich Schütze. 2021. In Proceedings of The Second Workshop on Insights from Negative Results, EMNLP.
 
 [Artificial Intelligence, Extreme Speech, and the Challenges of Online Content Moderation](https://doi.org/10.5282/ubm/epub.76087). Sahana Udupa, Elonnai Hickok, Antonis Maronikolakis, Hinrich Schuetze, Laura Csuka, Axel Wisiorek, Leah Nann. 2021. AI4Dignity Project. EU Commission Policy Brief.
 
