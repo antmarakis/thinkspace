@@ -13,6 +13,8 @@ permalink: /publications/
 
 [Separating Hate Speech and Offensive Language Classes via Adversarial Debiasing](https://raw.githubusercontent.com/ShuzhouYuan/Hate_Offensive_Adversarial_Debiasing/main/adversarial_debiasing.pdf) Shuzhou Yuan, Antonis Maronikolakis, Hinrich Schütze. 2022. In Proceedings of The 6th Workshop on Online Abuse and Harms, NAACL.
 
+[Ethical Scaling for Content Moderation: Extreme Speech and the (In)Significance of Artificial Intelligence](https://shorensteincenter.org/ethical-scaling-content-moderation-extreme-speech-insignificance-artificial-intelligence/) Sahana Udupa, Antonis Maronikolakis, Hinrich Schütze, Axel Wisiorek. 2022. Shorenstein Center, Harvard University.
+
 ## 2021
 
 [Wine is Not v i n. -- On the Compatibility of Tokenizations Across Languages](https://aclanthology.org/2021.findings-emnlp.205/). Antonis Maronikolakis, Philipp Dufter and Hinrich Schütze. 2021. In Findings of the 2021 Conference on Empirical Methods in Natural Language Processing.
