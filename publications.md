@@ -9,11 +9,11 @@ permalink: /publications/
 
 [Listening to Affected Communities to Define Extreme Speech: Dataset and Experiments](https://raw.githubusercontent.com/antmarakis/antmarakis.github.io/master/files/xtremespeech.pdf). Antonis Maronikolakis, Axel Wisiorek, Leah Nann, Haris Jabbar, Sahana Udupa and Hinrich Schütze. 2022. In Findings of the Association for Computational Linguistics: ACL 2022.
 
-[Analyzing Hate Speech Data along Racial, Gender and Intersectional Axes](https://arxiv.org/abs/2205.06621) Antonis Maronikolakis, Philip Baader, Hinrich Schütze. 2022. In Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing, NAACL.
+[Analyzing Hate Speech Data along Racial, Gender and Intersectional Axes](https://arxiv.org/abs/2205.06621). Antonis Maronikolakis, Philip Baader, Hinrich Schütze. 2022. In Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing, NAACL.
 
-[Separating Hate Speech and Offensive Language Classes via Adversarial Debiasing](https://raw.githubusercontent.com/ShuzhouYuan/Hate_Offensive_Adversarial_Debiasing/main/adversarial_debiasing.pdf) Shuzhou Yuan, Antonis Maronikolakis, Hinrich Schütze. 2022. In Proceedings of The 6th Workshop on Online Abuse and Harms, NAACL.
+[Separating Hate Speech and Offensive Language Classes via Adversarial Debiasing](https://raw.githubusercontent.com/ShuzhouYuan/Hate_Offensive_Adversarial_Debiasing/main/adversarial_debiasing.pdf). Shuzhou Yuan, Antonis Maronikolakis, Hinrich Schütze. 2022. In Proceedings of The 6th Workshop on Online Abuse and Harms, NAACL.
 
-[Ethical Scaling for Content Moderation: Extreme Speech and the (In)Significance of Artificial Intelligence](https://shorensteincenter.org/ethical-scaling-content-moderation-extreme-speech-insignificance-artificial-intelligence/) Sahana Udupa, Antonis Maronikolakis, Hinrich Schütze, Axel Wisiorek. 2022. Shorenstein Center, Harvard University.
+[Ethical Scaling for Content Moderation: Extreme Speech and the (In)Significance of Artificial Intelligence](https://shorensteincenter.org/ethical-scaling-content-moderation-extreme-speech-insignificance-artificial-intelligence/). Sahana Udupa, Antonis Maronikolakis, Hinrich Schütze, Axel Wisiorek. 2022. Shorenstein Center, Harvard University.
 
 ## 2021
 
