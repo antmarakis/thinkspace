@@ -15,6 +15,8 @@ permalink: /publications/
 
 [Ethical Scaling for Content Moderation: Extreme Speech and the (In)Significance of Artificial Intelligence](https://shorensteincenter.org/ethical-scaling-content-moderation-extreme-speech-insignificance-artificial-intelligence/). Sahana Udupa, Antonis Maronikolakis, Hinrich Schütze, Axel Wisiorek. 2022. Shorenstein Center, Harvard University.
 
+[This joke is \[MASK\]: Recognizing Humor and Offense with Prompting](https://arxiv.org/abs/2210.13985). Junze Li, Mengjie Zhao, Yubo Xie, Antonis Maronikolakis, Pearl Pu, Hinrich Schütze. 2022. Transfer Learning for Natural Language Processing Workshop, NeurIPS.
+
 ## 2021
 
 [Wine is Not v i n. -- On the Compatibility of Tokenizations Across Languages](https://aclanthology.org/2021.findings-emnlp.205/). Antonis Maronikolakis, Philipp Dufter and Hinrich Schütze. 2021. In Findings of the 2021 Conference on Empirical Methods in Natural Language Processing.
