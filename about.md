@@ -8,7 +8,7 @@ permalink: /about/
 <img src="https://raw.githubusercontent.com/antmarakis/antmarakis.github.io/master/images/profile.jpg" height="125" width="120">
 </p>
 
-I am Antonis Maronikolakis, a 3rd-year PhD student at the LMU studying under the supervision of Hinrich Schütze. I am currently working on social and ethical NLP with a focus on hate speech analysis. As part of the [AI4Dignity](https://www.ai4dignity.gwi.uni-muenchen.de/) project, I am working with marginalized communities around the globe for collection and annotation of hateful data. Previously, I investigated multilinguality in BERT, publishing two papers on the subject.
+I am Antonis Maronikolakis, a 4th-year PhD student at the LMU studying under the supervision of Hinrich Schütze. I am currently working on social and ethical NLP with a focus on hate speech analysis. As part of the [AI4Dignity](https://www.ai4dignity.gwi.uni-muenchen.de/) project, I am working with marginalized communities around the globe for collection and annotation of hateful data. Previously, I investigated multilinguality in BERT, publishing two papers on the subject.
 
 You can find my resume [here](https://antmarakis.github.io/files/antonis_resume.pdf).
 
