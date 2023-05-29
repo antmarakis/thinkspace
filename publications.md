@@ -4,6 +4,11 @@ title: ✏️ Publications
 permalink: /publications/
 ---
 
+## 2023
+
+[Sociocultural knowledge is needed for selection of shots in hate speech detection tasks](https://arxiv.org/abs/2304.01890). Antonis Maronikolakis, Abdullatif Köksal, Hinrich Schütze. Pre-print
+
+[This joke is \[MASK\]: Recognizing Humor and Offense with Prompting](https://arxiv.org/abs/2210.13985). Junze Li, Mengjie Zhao, Yubo Xie, Antonis Maronikolakis, Pearl Pu, Hinrich Schütze. 2022. Transfer Learning for Natural Language Processing Workshop, NeurIPS.
 
 ## 2022
 
@@ -14,8 +19,6 @@ permalink: /publications/
 [Separating Hate Speech and Offensive Language Classes via Adversarial Debiasing](https://aclanthology.org/2022.woah-1.1/). Shuzhou Yuan, Antonis Maronikolakis, Hinrich Schütze. 2022. In Proceedings of The 6th Workshop on Online Abuse and Harms, NAACL.
 
 [Ethical Scaling for Content Moderation: Extreme Speech and the (In)Significance of Artificial Intelligence](https://shorensteincenter.org/ethical-scaling-content-moderation-extreme-speech-insignificance-artificial-intelligence/). Sahana Udupa, Antonis Maronikolakis, Hinrich Schütze, Axel Wisiorek. 2022. Shorenstein Center, Harvard University.
-
-[This joke is \[MASK\]: Recognizing Humor and Offense with Prompting](https://arxiv.org/abs/2210.13985). Junze Li, Mengjie Zhao, Yubo Xie, Antonis Maronikolakis, Pearl Pu, Hinrich Schütze. 2022. Transfer Learning for Natural Language Processing Workshop, NeurIPS.
 
 ## 2021
 
